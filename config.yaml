@@ -1,0 +1,7 @@
+---
+smtpHost: <Enter Hostname/IP>
+smtpPort: <Enter port>
+flaskHost: 127.0.0.1
+flaskPort: <Enter port you want server to run on, default is 5000>
+webhookPath: /criblWebhook <can change if needed>
+from: <Enter email ID to be sent from eg: security@company.com>
